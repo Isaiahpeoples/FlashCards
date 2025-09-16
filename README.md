@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://online-project-images.s3.us-east-2.amazonaws.com/flashcards/FlashCards+Logo.svg" height="55%" width="55%" alt="FlashCards Logo"/>
+</p>
+
 <div align="center" id="toc">
   <ul style="list-style: none">
     <summary>
@@ -8,7 +12,7 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/isaiahpeoples/FlashCards)
+[![Version](https://img.shields.io/badge/version-3.0.0-blue.svg)](https://github.com/isaiahpeoples/FlashCards)
 [![Built With](https://img.shields.io/badge/Built_with-Next.js_15-blue)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue)](https://www.typescriptlang.org/)
 [![UI](https://img.shields.io/badge/UI-TailwindCSS_+_Shadcn_UI-blue)](https://ui.shadcn.com/)
